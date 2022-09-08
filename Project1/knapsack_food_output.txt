@@ -1,0 +1,190 @@
+The following items were loaded from file knapsack_food.txt : 
+Name, Integer Weight, Integer Value : 
+"Banana"                       Wt :    54 Val :   297 
+"Grapefruit"                   Wt :    95 Val :   295 
+"Lemons"                       Wt :    36 Val :   293 
+"Bok Choy"                     Wt :    18 Val :   292 
+"Kiwifruit"                    Wt :     4 Val :   291 
+"Oranges"                      Wt :    71 Val :   289 
+"Garlic"                       Wt :    83 Val :   284 
+"Pumpkin"                      Wt :    16 Val :   284 
+"Pummelo"                      Wt :    27 Val :   283 
+"Madarins"                     Wt :    84 Val :   283 
+"Lychee"                       Wt :    88 Val :   281 
+"Avocado"                      Wt :    45 Val :   280 
+"Asian Pear"                   Wt :    94 Val :   279 
+"Beans"                        Wt :    64 Val :   277 
+"Collard Greens"               Wt :    14 Val :   276 
+"Cauliflower"                  Wt :    80 Val :   275 
+"Peppers"                      Wt :     4 Val :   273 
+"Blackberries"                 Wt :    23 Val :   264 
+"Nectarines"                   Wt :    75 Val :   260 
+"Broccoflower"                 Wt :    36 Val :   257 
+"Cherries"                     Wt :    90 Val :   250 
+"Pineapple"                    Wt :    20 Val :   236 
+"Napa"                         Wt :    77 Val :   236 
+"Bamboo Shoots"                Wt :    32 Val :   235 
+"Broccoli"                     Wt :    58 Val :   235 
+"Feijoa"                       Wt :     6 Val :   233 
+"Eggplant"                     Wt :    14 Val :   232 
+"Carrots"                      Wt :    86 Val :   232 
+"Asparagus"                    Wt :    84 Val :   228 
+"Pears"                        Wt :    59 Val :   218 
+"Passion Fruit"                Wt :    71 Val :   217 
+"Iceberg Lettuce"              Wt :    21 Val :   214 
+"Peaches"                      Wt :    30 Val :   211 
+"Gooseberries"                 Wt :    22 Val :   208 
+"Chayote"                      Wt :    96 Val :   205 
+"Mushrooms"                    Wt :    49 Val :   204 
+"Green Beans"                  Wt :    81 Val :   203 
+"Plantains"                    Wt :    48 Val :   201 
+"Horned Melon"                 Wt :    37 Val :   196 
+"Prickly Pear"                 Wt :    28 Val :   194 
+"Leeks"                        Wt :     6 Val :   193 
+"Cherimoya"                    Wt :    84 Val :   193 
+"Fennel"                       Wt :    19 Val :   192 
+"Longan"                       Wt :    55 Val :   191 
+"Beets"                        Wt :    88 Val :   190 
+"Guava"                        Wt :    38 Val :   187 
+"Lima Beans"                   Wt :    51 Val :   187 
+"Dates"                        Wt :    52 Val :   184 
+"Artichoke"                    Wt :    79 Val :   184 
+"Bell Peppers"                 Wt :    55 Val :   184 
+"Honeydew Melon"               Wt :    70 Val :   181 
+"Figs"                         Wt :    53 Val :   179 
+"Kumquat"                      Wt :    64 Val :   176 
+"Endive"                       Wt :    99 Val :   173 
+"Bitter Melon"                 Wt :    61 Val :   172 
+"Dried Plums"                  Wt :    86 Val :   171 
+"Papayas"                      Wt :     1 Val :   160 
+"Prunes"                       Wt :    64 Val :   128 
+"Boniato"                      Wt :    32 Val :   123 
+"Hominy"                       Wt :    60 Val :   114 
+"Parsnip"                      Wt :    42 Val :   113 
+"Corn"                         Wt :    45 Val :   107 
+"Onion"                        Wt :    34 Val :   105 
+"Kohlrabi"                     Wt :    22 Val :   101 
+"Greens"                       Wt :    49 Val :   100 
+"Grapes"                       Wt :    37 Val :   100 
+"Cabbage"                      Wt :    33 Val :    99 
+"Mangos"                       Wt :     1 Val :    98 
+"Cantaloupe"                   Wt :    78 Val :    97 
+"Lettuce"                      Wt :    43 Val :    94 
+"Cranberries"                  Wt :    85 Val :    94 
+"Escarole"                     Wt :    24 Val :    93 
+"Mandarin Oranges"             Wt :    96 Val :    91 
+"Apple"                        Wt :    32 Val :    80 
+"Plums"                        Wt :    99 Val :    74 
+"Potatoes"                     Wt :    57 Val :    73 
+"Okra"                         Wt :    23 Val :    72 
+"Celery"                       Wt :     8 Val :    63 
+"Apricot"                      Wt :    10 Val :    63 
+"Blueberries"                  Wt :    74 Val :    62 
+"Malanga"                      Wt :    59 Val :    61 
+"Green Onions"                 Wt :    89 Val :    60 
+"Jicama"                       Wt :    95 Val :    56 
+"Alfalfa Sprouts"              Wt :    40 Val :    53 
+"Limes"                        Wt :    46 Val :    52 
+"Persimmons"                   Wt :    65 Val :    50 
+"Loquat"                       Wt :     6 Val :    48 
+"Kale"                         Wt :    89 Val :    46 
+"Brussels Sprouts"             Wt :    84 Val :    40 
+"Peas"                         Wt :    83 Val :    40 
+"Cucumber"                     Wt :     6 Val :    35 
+"Coconuts"                     Wt :    19 Val :    28 
+"Mulberries"                   Wt :    45 Val :    22 
+"Pomegranate"                  Wt :    59 Val :    22 
+"Cactus Pear"                  Wt :    26 Val :    18 
+"Boysenberries"                Wt :    13 Val :    15 
+"Casaba Melon"                 Wt :     8 Val :    12 
+"Bean Sprouts"                 Wt :    26 Val :    11 
+"Jerusalem Artichoke"          Wt :     5 Val :     6 
+"Carambola"                    Wt :     9 Val :     5 
+
+
+Results : The following items were chosen : 
+"Alfalfa Sprouts"              Wt :    40 Val :    53 
+"Apple"                        Wt :    32 Val :    80 
+"Apricot"                      Wt :    10 Val :    63 
+"Artichoke"                    Wt :    79 Val :   184 
+"Asian Pear"                   Wt :    94 Val :   279 
+"Asparagus"                    Wt :    84 Val :   228 
+"Avocado"                      Wt :    45 Val :   280 
+"Bamboo Shoots"                Wt :    32 Val :   235 
+"Banana"                       Wt :    54 Val :   297 
+"Beans"                        Wt :    64 Val :   277 
+"Beets"                        Wt :    88 Val :   190 
+"Bell Peppers"                 Wt :    55 Val :   184 
+"Bitter Melon"                 Wt :    61 Val :   172 
+"Blackberries"                 Wt :    23 Val :   264 
+"Bok Choy"                     Wt :    18 Val :   292 
+"Boniato"                      Wt :    32 Val :   123 
+"Boysenberries"                Wt :    13 Val :    15 
+"Broccoflower"                 Wt :    36 Val :   257 
+"Broccoli"                     Wt :    58 Val :   235 
+"Cabbage"                      Wt :    33 Val :    99 
+"Cantaloupe"                   Wt :    78 Val :    97 
+"Carrots"                      Wt :    86 Val :   232 
+"Casaba Melon"                 Wt :     8 Val :    12 
+"Cauliflower"                  Wt :    80 Val :   275 
+"Celery"                       Wt :     8 Val :    63 
+"Chayote"                      Wt :    96 Val :   205 
+"Cherimoya"                    Wt :    84 Val :   193 
+"Cherries"                     Wt :    90 Val :   250 
+"Coconuts"                     Wt :    19 Val :    28 
+"Collard Greens"               Wt :    14 Val :   276 
+"Corn"                         Wt :    45 Val :   107 
+"Cucumber"                     Wt :     6 Val :    35 
+"Dates"                        Wt :    52 Val :   184 
+"Dried Plums"                  Wt :    86 Val :   171 
+"Eggplant"                     Wt :    14 Val :   232 
+"Endive"                       Wt :    99 Val :   173 
+"Escarole"                     Wt :    24 Val :    93 
+"Feijoa"                       Wt :     6 Val :   233 
+"Fennel"                       Wt :    19 Val :   192 
+"Figs"                         Wt :    53 Val :   179 
+"Garlic"                       Wt :    83 Val :   284 
+"Gooseberries"                 Wt :    22 Val :   208 
+"Grapefruit"                   Wt :    95 Val :   295 
+"Grapes"                       Wt :    37 Val :   100 
+"Green Beans"                  Wt :    81 Val :   203 
+"Greens"                       Wt :    49 Val :   100 
+"Guava"                        Wt :    38 Val :   187 
+"Hominy"                       Wt :    60 Val :   114 
+"Honeydew Melon"               Wt :    70 Val :   181 
+"Horned Melon"                 Wt :    37 Val :   196 
+"Iceberg Lettuce"              Wt :    21 Val :   214 
+"Jerusalem Artichoke"          Wt :     5 Val :     6 
+"Kiwifruit"                    Wt :     4 Val :   291 
+"Kohlrabi"                     Wt :    22 Val :   101 
+"Kumquat"                      Wt :    64 Val :   176 
+"Leeks"                        Wt :     6 Val :   193 
+"Lemons"                       Wt :    36 Val :   293 
+"Lettuce"                      Wt :    43 Val :    94 
+"Lima Beans"                   Wt :    51 Val :   187 
+"Limes"                        Wt :    46 Val :    52 
+"Longan"                       Wt :    55 Val :   191 
+"Loquat"                       Wt :     6 Val :    48 
+"Lychee"                       Wt :    88 Val :   281 
+"Madarins"                     Wt :    84 Val :   283 
+"Mangos"                       Wt :     1 Val :    98 
+"Mushrooms"                    Wt :    49 Val :   204 
+"Napa"                         Wt :    77 Val :   236 
+"Nectarines"                   Wt :    75 Val :   260 
+"Okra"                         Wt :    23 Val :    72 
+"Onion"                        Wt :    34 Val :   105 
+"Oranges"                      Wt :    71 Val :   289 
+"Papayas"                      Wt :     1 Val :   160 
+"Parsnip"                      Wt :    42 Val :   113 
+"Passion Fruit"                Wt :    71 Val :   217 
+"Peaches"                      Wt :    30 Val :   211 
+"Pears"                        Wt :    59 Val :   218 
+"Peppers"                      Wt :     4 Val :   273 
+"Pineapple"                    Wt :    20 Val :   236 
+"Plantains"                    Wt :    48 Val :   201 
+"Potatoes"                     Wt :    57 Val :    73 
+"Prickly Pear"                 Wt :    28 Val :   194 
+"Prunes"                       Wt :    64 Val :   128 
+"Pummelo"                      Wt :    27 Val :   283 
+"Pumpkin"                      Wt :    16 Val :   284 
+For a total value of <15170> and a total weight of [3818]

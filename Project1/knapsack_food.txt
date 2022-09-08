@@ -1,0 +1,100 @@
+"Banana",54,297
+"Grapefruit",95,295
+"Lemons",36,293
+"Bok Choy",18,292
+"Kiwifruit",4,291
+"Oranges",71,289
+"Garlic",83,284
+"Pumpkin",16,284
+"Pummelo",27,283
+"Madarins",84,283
+"Lychee",88,281
+"Avocado",45,280
+"Asian Pear",94,279
+"Beans",64,277
+"Collard Greens",14,276
+"Cauliflower",80,275
+"Peppers",4,273
+"Blackberries",23,264
+"Nectarines",75,260
+"Broccoflower",36,257
+"Cherries",90,250
+"Pineapple",20,236
+"Napa",77,236
+"Bamboo Shoots",32,235
+"Broccoli",58,235
+"Feijoa",6,233
+"Eggplant",14,232
+"Carrots",86,232
+"Asparagus",84,228
+"Pears",59,218
+"Passion Fruit",71,217
+"Iceberg Lettuce",21,214
+"Peaches",30,211
+"Gooseberries",22,208
+"Chayote",96,205
+"Mushrooms",49,204
+"Green Beans",81,203
+"Plantains",48,201
+"Horned Melon",37,196
+"Prickly Pear",28,194
+"Leeks",6,193
+"Cherimoya",84,193
+"Fennel",19,192
+"Longan",55,191
+"Beets",88,190
+"Guava",38,187
+"Lima Beans",51,187
+"Dates",52,184
+"Artichoke",79,184
+"Bell Peppers",55,184
+"Honeydew Melon",70,181
+"Figs",53,179
+"Kumquat",64,176
+"Endive",99,173
+"Bitter Melon",61,172
+"Dried Plums",86,171
+"Papayas",1,160
+"Prunes",64,128
+"Boniato",32,123
+"Hominy",60,114
+"Parsnip",42,113
+"Corn",45,107
+"Onion",34,105
+"Kohlrabi",22,101
+"Greens",49,100
+"Grapes",37,100
+"Cabbage",33,99
+"Mangos",1,98
+"Cantaloupe",78,97
+"Lettuce",43,94
+"Cranberries",85,94
+"Escarole",24,93
+"Mandarin Oranges",96,91
+"Apple",32,80
+"Plums",99,74
+"Potatoes",57,73
+"Okra",23,72
+"Celery",8,63
+"Apricot",10,63
+"Blueberries",74,62
+"Malanga",59,61
+"Green Onions",89,60
+"Jicama",95,56
+"Alfalfa Sprouts",40,53
+"Limes",46,52
+"Persimmons",65,50
+"Loquat",6,48
+"Kale",89,46
+"Brussels Sprouts",84,40
+"Peas",83,40
+"Cucumber",6,35
+"Coconuts",19,28
+"Mulberries",45,22
+"Pomegranate",59,22
+"Cactus Pear",26,18
+"Boysenberries",13,15
+"Casaba Melon",8,12
+"Bean Sprouts",26,11
+"Jerusalem Artichoke",5,6
+"Carambola",9,5
